@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    ".blade.php": "html",
+    ".tpl": "html",
+    "*.module": "php",
+    "ostream": "cpp"
+  }
+}
